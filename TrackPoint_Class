@@ -1,6 +1,6 @@
-#Encapsulates and manages a single data point in a hurricane track, including its location, radius and wind speed.
-#javac --class-path doodlepad.jar Hurricane.java TrackPoint.java Tracker.java
-#java --class-path .;doodlepad.jar Tracker ____________(hurricane name in underline).txt 
+//Encapsulates and manages a single data point in a hurricane track, including its location, radius and wind speed.
+//javac --class-path doodlepad.jar Hurricane.java TrackPoint.java Tracker.java
+//java --class-path .;doodlepad.jar Tracker ____________(hurricane name in underline).txt 
 
 import java.io.*; //file import
  import java.util.Scanner; //scan import
