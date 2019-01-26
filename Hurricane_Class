@@ -1,4 +1,9 @@
-import java.io.*; //file import
+//Description: Encapsulates and manages the entire record of a single hurricane track, including the hurricane name and all data points that describe how it behaved over time.
+///javac --class-path doodlepad.jar Hurricane.java TrackPoint.java Tracker.java
+//java --class-path .;doodlepad.jar Tracker ____________(hurricane name in underline).txt 
+ */
+
+ import java.io.*; //file import
  import java.util.Scanner; //scan import
  import java.io.IOException; // import file exception
  import doodlepad.*; //import doodlepad
